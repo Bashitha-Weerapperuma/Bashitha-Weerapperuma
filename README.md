@@ -1,41 +1,77 @@
+# Hi there, I'm Bashitha Weerapperuma! 👋
+
+I'm a tech-savvy and results-driven IT student with a knack for problem-solving. Proficient in Programming, Editing, and Electronic field, I am dedicated to leveraging my knowledge to drive efficiency and innovation. A quick learner and effective communicator, I am poised to contribute positively to dynamic teams and deliver impactful solutions.
+
+## Experience
+### Undergraduate
+**SLIIT**  
+*Nov 2022 - Present (1 year 4 months)*
+
+## Education
+- **Graduate Diploma in Software Engineering, Computer Software Engineering**
+  - *IJSE-Institute of Software Engineering*  
+  - *Jan 2021 - Dec 2021*
+  - **Top Tech Stack of Session 1**: Java SE, Java FX, Netbeans IDE, MySQL, Jasper Studio, IntelliJ IDEA
+  - **Top Tech Stack of Session 2**: HTML5, CSS3, ECMAScript, Hibernate, Node.js, MongoDB, Angular
+- **Certificate Course In English Spoken**
+  - *Open University of Sri Lanka*  
+  - *Jan 2021 - Apr 2021*
+- **Bachelor of Honours - Information Technology, Information Technology**
+  - *SLIIT*  
+  - *Oct 2022 - Present*
+
+## Licenses & Certifications
+- Advanced React - Meta
+- Python for Beginners - University of Moratuwa
+- Web Design for Beginners - University of Moratuwa
+- Intermediate Python Programming - University of Moratuwa
+- Front-End Web Development - University of Moratuwa
+- Introduction to Java - Sololearn
+- Java Intermediate - Sololearn
+- Introduction to C - Sololearn
+- AI Bootcamp Series 2023 - AI-Driven Sri Lanka
+- Microsoft Learn AI Skills Challenge - Microsoft AI
+- Java (Basic ) - HackerRank
+- Angular (Basic) - HackerRank
+- React (Basic) - HackerRank
+- Python (Basic) - HackerRank
+- Globle IT Literacy Mission - ITRC Technologies Private Limited
+- COMPREHENSIVE MASTER JAVA DEVELOPER - IJSE-Institute of Software Engineering
+- Introduction to Cloud Computing - IBM
+- Web Development with HTML, CSS, JavaScript - IBM
+- Git and GitHub - IBM
+- Developing Front-End Apps with React - IBM
+- AI/ML Engineer - Stage 1 - SLIIT
+- Developing Back-End Apps with Node.js and Express - IBM
+- Python for Data Science, AI & Development - IBM
+- Developing AI Applications with Python and Flask - IBM
+- Introduction to Containers w/ Docker, Kubernetes & OpenShift - IBM
+- Full Stack Cloud Development Capstone Project - IBM
+- Full Stack Software Developer Assessment - IBM
+- Application Development using Microservices and Serverless - IBM
+- Container & Kubernetes Essentials V2 - Coursera
+- Full Stack Cloud Development Capstone Project - Coursera
+- Application Development using Microservices and Serverless - Coursera
+- Django Application Development with SQL and Databases - IBM
+- Developing Applications with SQL, Databases, and Django - Coursera
+- IBM Full Stack Software Developer - IBM
+
+## Skills
+- Certified Full Stack Developer Program
+- Docker, Kubernetes & OpenShift
+- Data Science
+- Node.js and Express
+- Git and GitHub
+- Programming Languages
+- Database Management
+- Version Control
+- Front-End Development
+- Web Design
+
+## Get in Touch
+- LinkedIn: [Bashitha Weerapperuma](<LinkedIn_Link_here>)
 
 
-
-# Hi there, I'm **Bashitha-Weerapperuma/Bashitha-Weerapperuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a professional software developer with expertise in web development and full-stack development. Welcome to my GitHub profile! Feel free to explore my projects and repositories.
-
-## About Me
-- 💼 Currently working as a [Your Current Position] at [Your Company/Organization].
-- 🎓 Graduated with a degree in [Your Degree] from [Your University].
-- 💻 Passionate about coding, problem-solving, and building scalable software solutions.
-- 🌱 Always learning and exploring new technologies to stay updated in the ever-evolving tech landscape.
-- 📫 You can reach me via [Email Address].
-
-## Connect with Me
-- [LinkedIn](Your LinkedIn Profile URL)
-
-## Programming Languages
-- JavaScript
-- Python
-- Java
-- HTML/CSS
-- SQL
-
-## Tools & Technologies
-- Frontend: React.js, Vue.js, Angular
-- Backend: Node.js, Express.js, Django, Spring Boot
-- Database: MongoDB, MySQL, PostgreSQL, SQLite
-- Version Control: Git, GitHub
-- DevOps: Docker, Kubernetes, Jenkins
-- Cloud Platforms: AWS, Azure, Google Cloud Platform
-- Other: RESTful APIs, GraphQL, WebSockets, OAuth
-
-## Projects
-Here are some of my notable projects:
-- [Project 1 Name](Project 1 URL): Brief description.
-- [Project 2 Name](Project 2 URL): Brief description.
-- [Project 3 Name](Project 3 URL): Brief description.
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
