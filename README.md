@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bashitha-weerapperuma.vercel.app/](https://bashitha-weerapperuma.vercel.app/)
+- 👨‍💻 All of my qualifications are available at [https://www.linkedin.com/in/bashitha-weerapperuma/](https://www.linkedin.com/in/bashitha-weerapperuma/)
+
+
+-  All of my Portfolio Web site available at [https://bashitha-weerapperuma.vercel.app/](https://bashitha-weerapperuma.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
