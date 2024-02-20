@@ -8,6 +8,9 @@ I'm a tech-savvy and results-driven IT student with a knack for problem-solving.
 *Nov 2022 - Present (1 year 4 months)*
 
 ## Education
+- **Bachelor of Honours - Information Technology, Information Technology**
+  - *SLIIT*  
+  - *Oct 2022 - Present*
 - **Graduate Diploma in Software Engineering, Computer Software Engineering**
   - *IJSE-Institute of Software Engineering*  
   - *Jan 2021 - Dec 2021*
@@ -16,9 +19,7 @@ I'm a tech-savvy and results-driven IT student with a knack for problem-solving.
 - **Certificate Course In English Spoken**
   - *Open University of Sri Lanka*  
   - *Jan 2021 - Apr 2021*
-- **Bachelor of Honours - Information Technology, Information Technology**
-  - *SLIIT*  
-  - *Oct 2022 - Present*
+
 
 ## Licenses & Certifications
 - Advanced React - Meta
