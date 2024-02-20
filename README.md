@@ -69,7 +69,7 @@ I'm a tech-savvy and results-driven IT student with a knack for problem-solving.
 - Web Design
 
 ## Get in Touch
-- LinkedIn: [Bashitha Weerapperuma](<LinkedIn_Link_here>)
+- LinkedIn: [Bashitha Weerapperuma](<[LinkedIn_Link_here](https://www.linkedin.com/in/bashitha-weerapperuma/)>)
 
 
 
