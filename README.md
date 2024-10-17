@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=bashitha-weerapperuma&label=Profile%20views&color=0e75b6&style=flat" alt="bashitha-weerapperuma" />
 </p>
 
+---
+
 - 🌱 I’m currently learning **Flutter, React Native, Android, iOS**
 - 💬 Ask me about **Web Development, Android & iOS Apps**
 - 📫 Reach me at **bashitha.weerapperuma@gmail.com**
