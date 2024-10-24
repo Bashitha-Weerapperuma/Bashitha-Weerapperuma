@@ -115,11 +115,6 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   </a>
- <!-- ActionScript -->
-<a href="https://www.adobe.com/products/flashplayer.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe_flash/adobe_flash-icon.svg" alt="ActionScript" width="40" height="40"/>
-</a>
-
   <!-- ASP.NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
@@ -164,6 +159,24 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
+
+   <!-- GitHub -->
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <!-- GitLab -->
+  <a href="https://gitlab.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+  </a>
+  <!-- Bitbucket -->
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_bitbucket/atlassian_bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
+  </a>
+  <!-- GitBash -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GitBash" width="40" height="40"/>
+  </a>
+  
 </p>
 
 
