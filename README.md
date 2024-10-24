@@ -67,8 +67,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashitha-weerapperuma&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=16" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashitha-weerapperuma&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=16&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
 </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /></p>
 
