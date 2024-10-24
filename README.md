@@ -115,7 +115,36 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
+-------------------------------------------------
+<!-- Detailed Contribution Graph (Dark Theme) -->
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=dark&count_private=true&hide_border=true" alt="Detailed Contribution Stats" />
+</p>
 
+<!-- Additional Contribution Insights -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bashitha-weerapperuma&theme=github-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
+
+<!-- Contributions by Year -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashitha-weerapperuma&theme=github_dark" alt="Repositories per Language" />
+</p>
+
+<!-- Contribution Timeline -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=github_dark" alt="Stats Card" />
+</p>
+
+<!-- Overall Contribution Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bashitha-weerapperuma&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<!-- Overall Activity Insights -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=github_dark&utcOffset=4" alt="Productive Time" />
+</p>
 
 
 
