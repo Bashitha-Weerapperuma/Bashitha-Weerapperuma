@@ -119,7 +119,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
-
+-------------
+<img align="center" src="https://camo.githubusercontent.com/b438a7965dc20bc1a42c9ae6cf8dd48607d46686dfc4c99b4bb7d37a3837bb03/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5363617231313039267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Bashitha-Weerapperuma&amp;theme=dark&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;">
 -------------
 
 <h3 align="left">🚀 About Me:</h3>
