@@ -62,54 +62,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashitha-weerapperuma&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=16&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" /></p>
-
-
-<br/>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
-</p>
-
-<!-- Contribution Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bashitha-weerapperuma&theme=radical&hide_border=false" alt="Contribution Graph" />
-</p>
-
-<!-- Profile Summary Cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" alt="Profile Details" />
-</p>
-
-<!-- Commits per Repository -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bashitha-weerapperuma&theme=radical" alt="Most Commit Language" />
-</p>
-
-<!-- Repo Stats (Starred, Forked, etc.) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashitha-weerapperuma&theme=radical" alt="Repositories per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=radical" alt="Stats Card" />
-</p>
-
-<!-- Starred Repos -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
-</p>
 ----------
 <!-- GitHub Stats -->
 <p align="center">
