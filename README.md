@@ -70,10 +70,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-  </a>
+ <!-- Laravel -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+</a>
+
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
