@@ -70,7 +70,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashitha-weerapperuma&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=16" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" alt="Streak Stats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" alt="Profile Details" /></p>
+
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" alt="Streak Stats" /></p>
