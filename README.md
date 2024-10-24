@@ -63,6 +63,8 @@
   </a>
 </p>
 ----------
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Bashitha-Weerapperuma&theme=dark&show_icons=true&count_private=true" />
+----------------
 <!-- GitHub Stats -->
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
