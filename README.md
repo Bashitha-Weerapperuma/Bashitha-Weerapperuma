@@ -62,12 +62,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
-
-----------------
+---
 <!-- GitHub Stats -->
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
-<!-- Detailed Contribution Graph by GitHub Readme Stats -->
-<!-- Dark Mode Contribution Graph by GitHub Readme Stats -->
+
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=night-owl" alt="Detailed Contribution Stats" />
 </p>
