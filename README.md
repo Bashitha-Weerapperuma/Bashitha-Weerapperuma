@@ -73,6 +73,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
 </p>
 
+<!-- Detailed Contribution Graph by GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
+</p>
+
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
@@ -113,10 +118,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
 
-<!-- Detailed Contribution Graph by GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
-</p>
+
 
 
 
