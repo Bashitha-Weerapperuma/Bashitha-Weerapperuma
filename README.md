@@ -64,8 +64,9 @@
 </p>
 ----------
 <!-- GitHub Stats -->
+<!-- Detailed Contribution Graph by GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
 </p>
 
 <!-- Top Languages -->
@@ -73,10 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
 </p>
 
-<!-- Detailed Contribution Graph by GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
-</p>
+
 
 <!-- GitHub Streak Stats -->
 <p align="center">
