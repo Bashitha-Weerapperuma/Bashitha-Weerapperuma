@@ -75,7 +75,10 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" alt="Streak Stats" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical" alt="Trophies" />
