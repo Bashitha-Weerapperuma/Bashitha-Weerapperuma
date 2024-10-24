@@ -66,11 +66,11 @@
 <!-- GitHub Stats -->
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
-<div style="text-align: center; margin: 20px 0; padding: 10px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); background-color: #f9f9f9;">
-  <h2 style="font-family: 'Arial', sans-serif; color: #333; margin-bottom: 10px;">GitHub Contribution Stats</h2>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" style="border-radius: 8px; max-width: 100%; height: auto; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);" />
-  <p style="font-family: 'Arial', sans-serif; color: #666; margin-top: 10px;">Track your contributions over time and showcase your coding activity!</p>
-</div>
+<!-- Dark Mode Contribution Graph by GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=night-owl" alt="Detailed Contribution Stats" />
+</p>
+
 
 
 <!-- Top Languages -->
