@@ -113,22 +113,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
 
-<!-- Starred Repositories -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bashitha-weerapperuma&repo=repository-name&theme=radical" alt="Starred Repos" />
-</p>
-
 <!-- Detailed Contribution Graph by GitHub Readme Stats -->
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
 </p>
 
-<!-- Recent Activity (use GitHub Action to automate updates) -->
-<p align="center">
-  <a href="https://github.com/bashitha-weerapperuma/github-profile-activity">
-    <img src="https://github.com/bashitha-weerapperuma/github-profile-activity/actions/workflows/update.yml/badge.svg" alt="Recent Activity" />
-  </a>
-</p>
+
 
 -------------
 
