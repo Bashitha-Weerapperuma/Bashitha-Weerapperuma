@@ -110,9 +110,75 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
 </p>
+----------
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" />
+</p>
 
----
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bashitha-weerapperuma&theme=radical&hide_border=false" alt="Contribution Graph" />
+</p>
+
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" alt="Profile Details" />
+</p>
+
+<!-- Commits per Repository -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bashitha-weerapperuma&theme=radical" alt="Most Commit Language" />
+</p>
+
+<!-- Repositories per Language -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashitha-weerapperuma&theme=radical" alt="Repositories per Language" />
+</p>
+
+<!-- General Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=radical" alt="Stats Card" />
+</p>
+
+<!-- Productive Time Analysis -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" alt="Productive Time" />
+</p>
+
+<!-- Starred Repositories -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bashitha-weerapperuma&repo=repository-name&theme=radical" alt="Starred Repos" />
+</p>
+
+<!-- Detailed Contribution Graph by GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=bashitha-weerapperuma&theme=radical" alt="Detailed Contribution Stats" />
+</p>
+
+<!-- Recent Activity (use GitHub Action to automate updates) -->
+<p align="center">
+  <a href="https://github.com/bashitha-weerapperuma/github-profile-activity">
+    <img src="https://github.com/bashitha-weerapperuma/github-profile-activity/actions/workflows/update.yml/badge.svg" alt="Recent Activity" />
+  </a>
+</p>
+
+-------------
 
 <h3 align="left">🚀 About Me:</h3>
 <p>
