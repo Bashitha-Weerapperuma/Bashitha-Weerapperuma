@@ -81,8 +81,9 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6" alt="Trophies" />
 </p>
+
 
 ---
 
