@@ -115,31 +115,55 @@ I’m a continuous learner who loves:
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-### 📊 GitHub Analytics
+<!-- ===================== EXTENDED GITHUB ANALYTICS ===================== -->
 
+<!-- Contribution Calendar -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=5.5"
+    alt="Productive Time."
+  />
 </p>
 
+<!-- Commits & PRs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=radical"
+    alt="Stats Card."
+  />
 </p>
 
+<!-- Repos per Language -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bashitha-weerapperuma&theme=radical"
+    alt="Repos Per Language."
+  />
 </p>
 
+<!-- Most Commit Language -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical&column=6" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bashitha-weerapperuma&theme=radical"
+    alt="Most Commit Language."
+  />
 </p>
 
+<!-- Profile Metrics -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" />
+  <img 
+    src="https://metrics.lecoq.io/bashitha-weerapperuma?template=classic&base.activity=true&base.community=true&base.repositories=true&config.timezone=Asia/Colombo"
+    alt="GitHub Metrics."
+  />
 </p>
 
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake."
+  />
+</p>
 ---
 
 <!-- ===================== FOOTER ===================== -->
