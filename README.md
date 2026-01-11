@@ -157,13 +157,6 @@ I’m a continuous learner who loves:
   />
 </p>
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake."
-  />
-</p>
 ---
 
 <!-- ===================== FOOTER ===================== -->
