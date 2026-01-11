@@ -1,148 +1,103 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ================================================== -->
+<!--                Bashitha Weerapperuma README        -->
+<!-- ================================================== -->
+
 <h1 align="center">Hi 👋, I'm <span style="color:#0e75b6;">Bashitha Weerapperuma</span></h1>
-<h3 align="center">🚀 Passionate Software Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A Passionate Software Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bashitha-weerapperuma&label=Profile%20Views&color=0e75b6&style=flat" alt="bashitha-weerapperuma" />
-</p>
-
-<p align="center">
-  <i>Building scalable Web & Mobile Applications with modern technologies</i>
+  <img src="https://komarev.com/ghpvc/?username=bashitha-weerapperuma&label=Profile%20views&color=0e75b6&style=flat" alt="bashitha-weerapperuma" />
 </p>
 
 ---
 
-<!-- ===================== QUICK INFO ===================== -->
-### 👨‍💻 Quick Overview
-
-- 🌱 Currently learning **Flutter, React Native, Android & iOS**
-- 💬 Ask me about **Web Development, Android & iOS Apps**
-- 📫 Reach me at **bashitha.weerapperuma@gmail.com**
-- ⚡ Fun fact: **I think I am funny 😄**
+## 🔎 Quick facts
+- 🌱 I’m currently learning **Flutter, React Native, Android, iOS**  
+- 💬 Ask me about **Web Development, Android & iOS Apps**  
+- 📫 How to reach me: **bashitha.weerapperuma@gmail.com**  
+- ⚡ Fun fact: **I think I am funny.**
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://bashitha-weerapperuma.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/256/internet.png" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/bashitha-weerapperuma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/bashitha.weerapperuma.750" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/b.a._s_a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" />
-  </a>
-</p>
+## 🔗 Connect with me
+[Portfolio](https://bashitha-weerapperuma.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/bashitha-weerapperuma/) • [Facebook](https://fb.com/bashitha.weerapperuma.750) • [Instagram](https://instagram.com/b.a._s_a)
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <b>Mobile</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40"/>
-</p>
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
-</p>
-
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/>
-</p>
-
-<p align="center">
-  <b>Database & Cloud</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</p>
-
-<p align="center">
-  <b>Tools & DevOps</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="40"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
-</p>
+## 🏆 Highlights & Certifications
+- IBM Certified Full-Stack Developer (profile & posts show full-stack experience). :contentReference[oaicite:3]{index=3}  
+- Meta Certified — React specialist (listed on LinkedIn profile). :contentReference[oaicite:4]{index=4}  
+- Ranked **#42** in “The Governor's Gambit” challenge (GDG Sri Lanka / Graffon) — recent LinkedIn post. :contentReference[oaicite:5]{index=5}
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-### 🚀 About Me
+## 🧰 Languages & Tools
 
-I’m **Bashitha**, a dedicated software developer passionate about building **high-quality, scalable, and user-friendly applications**.  
-I specialize in **Web & Mobile Development**, and I enjoy working with **modern frameworks and clean architecture**.
+**Mobile:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="28" height="28"/> Android  •  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="28" height="28"/> Flutter  •  <img src="https://reactnative.dev/img/header_logo.svg" width="28" height="28"/> React Native  •  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="28" height="28"/> Kotlin
 
-I’m a continuous learner who loves:
-- 🔍 Solving real-world problems  
-- 📱 Creating smooth mobile experiences  
-- ⚙️ Designing maintainable backend systems  
+**Frontend:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28" height="28"/> React  •  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="28" height="28"/> Next.js  •  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="28" height="28"/> Vue  •  JavaScript  •  Tailwind / Bootstrap
 
----
+**Backend & DevOps:**  
+PHP • Laravel • Node.js • Spring Boot • Java • Python • Docker • AWS • Firebase
 
-<!-- ===================== GITHUB STATS ===================== -->
-### 📊 GitHub Analytics
+**Database:**  
+MySQL • Oracle
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bashitha-weerapperuma&theme=radical&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bashitha-weerapperuma&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bashitha-weerapperuma&theme=radical&utcOffset=4" />
-</p>
+**Tools:**  
+VS Code • IntelliJ • GitHub • GitLab • Postman • Figma
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+## 📂 Projects (selected)
+Below are projects pulled from your portfolio. Replace/extend as you like.
+
+### 1) Time Management Mobile Application  
+- Full project (Kotlin) — SLIIT 2-Year Project: time management, schedules, event analysis. :contentReference[oaicite:6]{index=6}
+
+### 2) Employee Management Desktop Application  
+- C# / SQL based offline system — full contribution; Visual Studio & MS SQL Server. :contentReference[oaicite:7]{index=7}
+
+> See more projects on my portfolio: https://bashitha-weerapperuma.vercel.app/. :contentReference[oaicite:8]{index=8}
+
+---
+
+## 👀 View / Presentation Component
+If you'd like a quick “view” component for your README (so recruiters can jump to portfolio / LinkedIn / featured project), this link block is included above in **Connect with me**, and also shown again here for emphasis:
+
+- 🔗 Portfolio: https://bashitha-weerapperuma.vercel.app/  
+- 🔗 LinkedIn: https://www.linkedin.com/in/bashitha-weerapperuma/
+
+---
+
+## 📊 GitHub Analytics
+(These are the cards that usually render correctly on GitHub's README; if any fail to render it may be due to rate-limits or third-party service availability — they generally work when viewed on GitHub.)
+
 <p align="center">
-  <b>✨ Thanks for visiting my profile! Let’s build something amazing together ✨</b>
+  <!-- GitHub profile summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bashitha-weerapperuma&theme=radical" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <!-- Main stats + languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bashitha-weerapperuma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bashitha-weerapperuma&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashitha-weerapperuma&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
+
+> If you open this `README.md` **on GitHub** these cards should render automatically. If they don't appear, try viewing after a short while (third-party services sometimes rate limit). If you want to host local/guaranteed images, we can generate static badged images and commit them to your repo instead.
+
+---
+
+## 📣 Social Proof & Activity
+- Active LinkedIn posts about Full-Stack engineering, cloud, and recent challenge participation. :contentReference[oaicite:9]{index=9}
+
+---
+
+## ✨ Footer
+Thanks for visiting — let's build something amazing together!  
+<!-- End of README -->
